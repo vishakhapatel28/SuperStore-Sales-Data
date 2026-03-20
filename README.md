@@ -71,6 +71,12 @@ Forecast generated for next 15 days
 
 Helps anticipate demand and plan inventory & operations effectively
 
+## 📷 Dashboard Preview
+
+![Dashboard](dashboard1.png)
+
+![Forecast](dashboard2.png)
+
 🧠 Key Insights & Findings
 
 West and East regions contribute the highest sales
