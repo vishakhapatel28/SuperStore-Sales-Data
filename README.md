@@ -119,11 +119,13 @@ Operational efficiency
 
 Customer satisfaction
 
+Strategic growth initiatives
+
 ---
 
 ## 👩‍💻 Author
 Vishakha Patel
 
-Strategic growth initiatives
+
 
 
