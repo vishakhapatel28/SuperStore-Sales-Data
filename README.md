@@ -100,6 +100,13 @@ Power Query – Data cleaning & transformation
 DAX – KPI and business metric calculations
 
 Excel / CSV – Data source
+---
+
+## 🚀 Future Scope
+- Add Machine Learning sales prediction model  
+- Deploy dashboard online  
+- Automate real-time data updates  
+
 
 ✅ Conclusion
 
@@ -111,6 +118,11 @@ Revenue planning
 Operational efficiency
 
 Customer satisfaction
+
+---
+
+## 👩‍💻 Author
+Vishakha Patel
 
 Strategic growth initiatives
 
